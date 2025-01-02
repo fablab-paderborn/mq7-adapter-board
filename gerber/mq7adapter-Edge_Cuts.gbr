@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,8.0.3*%
+%TF.CreationDate,2025-01-02T17:18:04+01:00*%
+%TF.ProjectId,mq7adapter,6d713761-6461-4707-9465-722e6b696361,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 8.0.3) date 2025-01-02 17:18:04*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X95000000Y-55000000D02*
+X137250000Y-55000000D01*
+X137250000Y-79500000D01*
+X95000000Y-79500000D01*
+X95000000Y-55000000D01*
+M02*
